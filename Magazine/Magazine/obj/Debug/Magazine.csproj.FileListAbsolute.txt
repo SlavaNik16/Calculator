@@ -1,0 +1,10 @@
+C:\Users\1519-20\source\repos\Magazine\Magazine\bin\Debug\Magazine.exe.config
+C:\Users\1519-20\source\repos\Magazine\Magazine\bin\Debug\Magazine.exe
+C:\Users\1519-20\source\repos\Magazine\Magazine\bin\Debug\Magazine.pdb
+C:\Users\1519-20\source\repos\Magazine\Magazine\obj\Debug\Magazine.csproj.AssemblyReference.cache
+C:\Users\1519-20\source\repos\Magazine\Magazine\obj\Debug\Magazine.Form1.resources
+C:\Users\1519-20\source\repos\Magazine\Magazine\obj\Debug\Magazine.Properties.Resources.resources
+C:\Users\1519-20\source\repos\Magazine\Magazine\obj\Debug\Magazine.csproj.GenerateResource.cache
+C:\Users\1519-20\source\repos\Magazine\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+C:\Users\1519-20\source\repos\Magazine\Magazine\obj\Debug\Magazine.exe
+C:\Users\1519-20\source\repos\Magazine\Magazine\obj\Debug\Magazine.pdb
